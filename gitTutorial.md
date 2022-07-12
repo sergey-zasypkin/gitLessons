@@ -20,5 +20,8 @@
 2. Слияние веток
 * *git merge BRANCH_NAME* - слияние ветки BRANCH_NAME в текущую ветку
 3. Конфликты веток
+* Fast-forward
+* Auto-merge
+* ORT
 
 4. Итоги
