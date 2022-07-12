@@ -18,5 +18,5 @@
 * *git branch checkout* - переход на ветку BRANCH_NAME
 
 2. Слияние веток
-
+* *git merge BRANCH_NAME* - слияние ветки BRANCH_NAME в текущую ветку
 3. Конфликты веток
