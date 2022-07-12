@@ -14,8 +14,8 @@
 
 1. Создание новой ветки и переходы между ветками
 * *git branch* - просмотр всех веток
-* * git branch BRANCH_NAME* - создание ветки BRANCH_NAME
-* *git checkpout* - переход на ветку BRANCH_NAME
+* *git branch BRANCH_NAME* - создание ветки BRANCH_NAME
+* *git branch checkout* - переход на ветку BRANCH_NAME
 
 2. Слияние веток
 
